@@ -1,5 +1,5 @@
 # Cenário 1: Cadastro com email e senha válidos
-
+#1
 from selenium import webdriver  # type: ignore
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
